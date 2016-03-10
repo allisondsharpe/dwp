@@ -20,7 +20,7 @@
 
 4. In order for this file to be pushed to your live server, you will need to type $ git add -A into the Terminal
 	<ul>
-		<li> This will tell the Terminal that you want to add a file to your remote repo <li>
+		<li> This will tell the Terminal that you want to add a file to your remote repo </li>
 	</ul>
 	
 5. After adding the file, you will need to commit the file by typing $ git commit -m 'commit message goes here' 
