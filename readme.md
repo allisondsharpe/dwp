@@ -1,5 +1,4 @@
-
-Portfolio Deployment Plan
+<h1> Portfolio Deployment Plan </h1>
 
 This is my deployment plan for my Portfolio site. It outlines the process of putting my site onto the live server via Git.
 
