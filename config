@@ -1,6 +1,7 @@
 [core]
 	repositoryformatversion = 0
-	filemode = true
+	filemode = false
 	bare = true
 	ignorecase = true
 	precomposeunicode = true
+	hideDotFiles = dotGitOnly
