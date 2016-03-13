@@ -18,7 +18,7 @@ p {
 }
 
 img {
-    width: 40%;
+    width: 60%;
 }
 
 img:hover {
@@ -73,8 +73,7 @@ img:hover {
 
 section {
 	margin-top: 50px;
-	margin-left: 20%;
-	margin-right: 20%;
+
 }
 
 .section-heading {
