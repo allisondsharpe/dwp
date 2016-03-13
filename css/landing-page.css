@@ -1,5 +1,5 @@
 body {
-    width: 100%;
+    width: 960px;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -125,6 +125,9 @@ footer {
         margin-bottom: 0;
     }
 
+    .intro-divider {
+        width: 100%;
+    }
 }
 
 @media(max-width:1199px) { 
