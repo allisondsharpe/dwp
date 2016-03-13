@@ -130,7 +130,7 @@ footer {
     }
 }
 
-@media(max-width:1199px) {
+@media(max-width:1190px) { /* 1199 px */
     ul.banner-social-buttons {
         float: left;
         margin-top: 15px;
